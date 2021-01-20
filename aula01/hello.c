@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("papobinario.com.br\n");
+	printf("www.bluepex.com.br\n");
 	return 0;
 }
+
 
